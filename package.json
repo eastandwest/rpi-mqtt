@@ -1,0 +1,16 @@
+{
+  "name": "mqtt-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bwm-ng": "^0.1.1",
+    "log4js": "^0.6.38",
+    "mqtt": "^1.14.1"
+  }
+}
